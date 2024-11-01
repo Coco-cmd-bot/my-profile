@@ -1,0 +1,83 @@
+/* Colors and font */
+
+
+.img-circle {
+	border-radius: 10px;
+}
+
+body {
+background: rgb(230, 230, 230);
+color: rgb(50, 50, 50);
+font-family: Helvetica;
+font-size: 16px;
+}
+
+
+
+
+h1 { 
+color: dark;
+font-size: 32px;
+font-weight: 900;
+padding: 20px;
+margin-bottom: 20px;
+ }
+
+ h2 {
+ 	font-weight: lighter;
+    background: rgb(230, 230, 230);
+    color: rgb(50, 50, 50);
+    font-family: Helvetica;
+    font-size: 16px;
+    box-shadow: 2px 2px 3px black;
+    box-sizing: initial;
+
+}
+
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600;
+	font-size: 16px;
+}
+a:hover {
+  color: black;
+}
+
+
+
+/* Custom design with class (99% of your design) */
+
+
+
+
+
+
+
+
+
+
+.car-white {
+  background color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+} 
+.img-circle {
+	border-radius: 50%;
+}
+
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+
+
+
+
+
